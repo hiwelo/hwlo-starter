@@ -1,0 +1,23 @@
+{
+  "name": "hwlo-starter",
+  "version": "0.0.1",
+  "authors": [
+    "Damien Senger <hi@hiwelo.co>"
+  ],
+  "description": "Hiwelo's starter for static html project",
+  "main": "index.html",
+  "license": "GNU GPL v3",
+  "homepage": "https://hiwelo.co",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/src/vendor/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "knacss": "~4.3.3",
+    "jquery": "~2.1.4"
+  }
+}
