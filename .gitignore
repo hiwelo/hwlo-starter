@@ -3,10 +3,10 @@ node_modules/*
 npm-debug.log
 
 # Bower
-assets/src/vendor/*
+src/assets/vendor/*
 
 # Gulp
-assets/dist/*
+dist/*
 
 # Mac OSX crap
 .DS_Store
