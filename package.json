@@ -1,0 +1,31 @@
+{
+  "name": "hwlo-starter",
+  "version": "0.0.1",
+  "description": "Hiwelo's starter for static html project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hiwelo/hwlo-starter.git"
+  },
+  "author": "Damien Senger <hi@hiwelo.co>",
+  "license": "GNU GPL v3",
+  "bugs": {
+    "url": "https://github.com/hiwelo/hwlo-starter/issues"
+  },
+  "homepage": "https://github.com/hiwelo/hwlo-starter",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-csso": "^1.0.0",
+    "gulp-less": "^3.0.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "imagemin": "^3.2.0"
+  }
+}
