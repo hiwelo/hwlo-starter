@@ -18,6 +18,7 @@
   ],
   "devDependencies": {
     "knacss": "latest",
-    "jquery": "latest"
+    "jquery": "latest",
+    "jquery.lazyload": "latest"
   }
 }

@@ -29,7 +29,8 @@ gulp.task('css', function () {
 gulp.task('js', function () {
   return gulp.src([
     source + '/js/*.js',
-    source + '/vendor/jquery/dist/jquery.min.js' // jQuery vendor
+    source + '/vendor/jquery/dist/jquery.min.js', // jQuery vendor
+    source + '/vendor/jquery.lazyload/jquery.lazyload.js' // jQuery lazyload plugin
   ])
     .pipe(plugins.concat('global.min.js'))
     .pipe(plugins.uglify())
