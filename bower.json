@@ -17,7 +17,7 @@
     "tests"
   ],
   "devDependencies": {
-    "knacss": "~4.3.3",
-    "jquery": "~2.1.4"
+    "knacss": "latest",
+    "jquery": "latest"
   }
 }
