@@ -2,7 +2,7 @@
   "name": "hwlo-starter",
   "version": "1.0.0",
   "description": "Hiwelo's starter for static html project",
-  "main": "index.html",
+  "main": "index.php",
   "scripts": {
     "vendor": "npm install --prefix assets/",
     "vendor-update": "npm update --prefix assets/",
