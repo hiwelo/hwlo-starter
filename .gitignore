@@ -1,9 +1,7 @@
 # Node JS
 node_modules/*
 npm-debug.log
-
-# Bower
-assets/src/vendor/*
+etc/
 
 # Gulp
 assets/dist/*

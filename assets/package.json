@@ -1,0 +1,19 @@
+{
+  "name": "hwlo-starter",
+  "version": "1.0.0",
+  "description": "Hiwelo's starter for static html project",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hiwelo/hwlo-starter.git"
+  },
+  "author": "Damien Senger <hi@hiwelo.co>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hiwelo/hwlo-starter/issues"
+  },
+  "homepage": "https://github.com/hiwelo/hwlo-starter",
+  "dependencies": {
+    "knacss": "^4.3.6"
+  }
+}
